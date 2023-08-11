@@ -26,10 +26,10 @@ const Navbar = () => {
 
   return (
     <nav className="max-w-[1640px] mx-auto p-10 flex justify-between items-center">
-      <h1 className="text-2xl sm:text-3xl lg:text-4xl font-bold">
+      <h1 className="text-3xl lg:text-4xl font-bold">
         Jad<span className="text-orange-500">oo</span>
       </h1>
-      <ul className="hidden sm:flex sm:gap-5">
+      <ul className="hidden sm:flex sm:gap-5 md:gap-8 lg:gap-14">
         <li>Destinations</li>
         <li>Hotels</li>
         <li>Flights</li>
@@ -68,12 +68,12 @@ const Navbar = () => {
           Jad<span className="text-orange-500">oo</span>
         </h2>
         <ul className="mx-6 mt-10 flex flex-col justify-evenly gap-5 text-gray-800">
-          <li className="text-xl  cursor-pointer">Destinations</li>
-          <li className="text-xl  cursor-pointer">Hotels</li>
-          <li className="text-xl cursor-pointer">Flights</li>
-          <li className="text-xl cursor-pointer">Bookings</li>
-          <li className="text-xl cursor-pointer">Login</li>
-          <li className="text-xl cursor-pointer">Sign Up</li>
+          <li className="text-xl">Destinations</li>
+          <li className="text-xl">Hotels</li>
+          <li className="text-xl">Flights</li>
+          <li className="text-xl">Bookings</li>
+          <li className="text-xl">Login</li>
+          <li className="text-xl">Sign Up</li>
         </ul>
       </div>
     </nav>
