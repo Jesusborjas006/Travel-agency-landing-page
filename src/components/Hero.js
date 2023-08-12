@@ -16,15 +16,15 @@ const Hero = () => {
         <h2 className="text-gray-800 text-4xl md:text-5xl lg:text-6xl font-bold font-serif">
           and full life
         </h2>
-        <p className="text-gray-700 mt-4 lg:w-[80%]">
+        <p className="text-gray-700 mt-4 lg:w-[80%] leading-7">
           Built Wicket longer admire do barton vanity itself do in it. Preferred
           to sportsmen it engrossed listening. Park gate sell they west hard for
           the.
         </p>
-        <button className="bg-orange-400 text-white px-3 py-1 rounded-lg mr-3 mt-4">
+        <button className="bg-orange-500 hover:bg-orange-600 text-white px-3 py-2 rounded-lg mr-3 mt-4">
           Find out more
         </button>
-        <button className="bg-red-400 text-white px-3 py-1 rounded-lg">
+        <button className="bg-red-500 hover:bg-red-600 text-white px-3 py-2 rounded-lg">
           Play Demo
         </button>
       </div>
