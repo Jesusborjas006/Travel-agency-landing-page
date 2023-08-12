@@ -31,3 +31,27 @@ export const category = [
       alt: "gear"
   },
 ];
+
+export const destinations = [
+  {
+    name: "Rome, Italy",
+    price: "$5,4k",
+    length: 10,
+    src: "https://images.pexels.com/photos/2225439/pexels-photo-2225439.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    alt: "Italy",
+  },
+  {
+    name: "London, UK",
+    price: "$4,2k",
+    length: 12,
+    src: "https://images.pexels.com/photos/77171/pexels-photo-77171.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    alt: "London",
+  },
+  {
+    name: "Full Europe",
+    price: "$15k",
+    length: 28,
+    src: "https://images.pexels.com/photos/3254729/pexels-photo-3254729.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    alt: "Europe",
+  }
+]
