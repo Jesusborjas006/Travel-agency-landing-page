@@ -17,7 +17,7 @@ I took a design and implemented it into code with the help of Tailwind CSS. I co
 1. Copy and paste the generated `localServer` address that your terminal provides into your browser address bar.
 
 ## Preview of App:
-<img width="754" alt="Screenshot 2023-08-15 at 6 28 32 PM" src="https://github.com/Jesusborjas006/travel-agency-landing-page/assets/111095858/6d94e81c-5f0d-400f-8f90-eeef7190525e">
+<img width="654" alt="Screenshot 2023-08-15 at 6 28 32 PM" src="https://github.com/Jesusborjas006/travel-agency-landing-page/assets/111095858/6d94e81c-5f0d-400f-8f90-eeef7190525e">
 
 ## Technologies Used: 
   - React
