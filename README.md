@@ -1,70 +1,25 @@
-# Getting Started with Create React App
+# [Travel Agency Landing Page](https://travel-agency-landing-page-teal.vercel.app/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Abstract:
+I took a design and implemented it into code with the help of Tailwind CSS. I continue to advance my skills in Tailwind and Web design skills with this project. This landing page is resposive across all devices.
 
-## Available Scripts
+## Contributors:
+- Jesus Borjas [LinkedIn](https://www.linkedin.com/in/jesus-borjas-6589b920a/), [Github](https://github.com/jesusborjas006)
 
-In the project directory, you can run:
+## Installation Instructions:
+1. Fork and clone [this repo](https://github.com/Jesusborjas006/travel-agency-landing-page).
+1. Copy the SSH key from the green "Code" button.
+1. In your terminal, use the command `git clone git@github.com:[https://github.com/Jesusborjas006/travel-agency-landing-page]`.
+1. Run `npm install`.
+1. Do NOT run `npm audit fix --force` when prompted.
+1. Open the repo in your text editor to make any changes or inspect code.
+1. Run `npm start` in your terminal.
+1. Copy and paste the generated `localServer` address that your terminal provides into your browser address bar.
 
-### `npm start`
+## Preview of App:
+<img width="754" alt="Screenshot 2023-08-15 at 6 28 32 PM" src="https://github.com/Jesusborjas006/travel-agency-landing-page/assets/111095858/6d94e81c-5f0d-400f-8f90-eeef7190525e">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Technologies Used: 
+  - React
+  - React Icons
+  - Tailwind CSS
