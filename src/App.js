@@ -5,6 +5,7 @@ import Footer from "./components/Footer";
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
 import Subscribe from "./components/Subscribe";
+import Testimonial from "./components/Testimonial";
 import TopDestinations from "./components/TopDestinations";
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
       <Category />
       <TopDestinations />
       <Book />
+      <Testimonial />
       <CompanyLogos />
       <Subscribe />
       <Footer />
