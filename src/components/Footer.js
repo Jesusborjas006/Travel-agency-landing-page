@@ -1,9 +1,9 @@
 const Footer = () => {
   return (
     <section className="max-w-[1640px] mx-auto p-10 ">
-      <div className="grid grid-cols-4 text-sm space-y-2 ">
+      <div className="grid grid-cols-4 text-sm space-y-1 gap-3">
         <div>
-          <h2 className="text-2xl lg:text-4xl font-bold">
+          <h2 className="text-xl lg:text-4xl font-bold">
             Jad<span className="text-orange-500">oo</span>
           </h2>
           <p className="hidden md:block w-[170px] my-2">
