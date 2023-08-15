@@ -2,7 +2,7 @@ import avatar from "../travel-images/avatar.png";
 
 const Testimonial = () => {
   return (
-    <section className="max-w-[1640px] mx-auto p-10">
+    <section className="max-w-[1640px] mx-auto p-10 my-10">
       <div className="grid md:grid-cols-2 justify-items-center gap-8">
         <div>
           <h4 className="text-gray-600 text-sm font-semibold lg:text-base mb-2">

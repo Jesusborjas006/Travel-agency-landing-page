@@ -2,7 +2,7 @@ import icon1 from "../travel-images/icon1.svg";
 import icon2 from "../travel-images/icon2.svg";
 import icon3 from "../travel-images/icon3.svg";
 import { PiLeafFill } from "react-icons/pi";
-import { BsMap } from "react-icons/bs";
+import { BsMap, BsPeopleFill } from "react-icons/bs";
 import { IoPaperPlaneSharp } from "react-icons/io5";
 import { GoHeart } from "react-icons/go";
 
@@ -82,7 +82,10 @@ const Book = () => {
             </div>
           </div>
           <div className="flex justify-between items-center">
-            <p>24 people going</p>
+            <div className="flex items-center">
+              <BsPeopleFill />
+              <p className="ml-2">24 people going</p>
+            </div>
             <GoHeart size={22} className="text-blue-800" />
           </div>
         </div>

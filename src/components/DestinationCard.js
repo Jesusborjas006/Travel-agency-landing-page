@@ -1,3 +1,5 @@
+import { BiSolidNavigation } from "react-icons/bi";
+
 const DestinationCard = ({ name, price, length, src, alt }) => {
   return (
     <div className="shadow-2xl rounded-b-3xl text-gray-700 max-w-[315px] min-w-[315px] mx-auto md:min-w-[220px] lg:min-w-[90%] lg:max-w-[90%]">
@@ -10,7 +12,11 @@ const DestinationCard = ({ name, price, length, src, alt }) => {
         <h5>{name}</h5>
         <h5>{price}</h5>
       </div>
-      <p className="mx-5 mt-3 pb-5">{length} Days Trip</p>
+
+      <div className="flex items-center mx-5 mt-3 pb-5">
+        <BiSolidNavigation size={20} />
+        <p className="ml-2">{length} Days Trip</p>
+      </div>
     </div>
   );
 };
